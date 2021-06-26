@@ -1,2 +1,2 @@
 # Ağdaki Paketlerin İzlenmesi  
-Bilgisayarda bulunduğumuz ağdaki paketlerin tespiti ve ağ bilgilerine eişmemizi sağlar.
+Bilgisayarda, bulunduğumuz ağdaki paketlerin tespiti ve bu paketlerin  bilgilerine erişmemizi sağlar.
