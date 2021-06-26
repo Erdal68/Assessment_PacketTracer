@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1624737636 source:/home/osboxes/Desktop/PacketTracer/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<pcap.h>
+	<net/ethernet.h>
+	<netinet/in.h>
+	<netinet/ip.h>
+	<netinet/tcp.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<regex>
+
